@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "extencion-estilos",
+    "libraryId": "bc21ee5d-5f2d-4907-a6a4-2dd617c01d11",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Extencion_estilos",
+    "solutionShortDescription": "Extencion_estilos description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
